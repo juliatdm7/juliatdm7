@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Julia and I am currently an Ecology, Evolution and Biodiversity MSc student at the University of Edinburgh 
 
 <!--
 **juliatdm7/juliatdm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
